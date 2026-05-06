@@ -2,6 +2,7 @@
 
 A modern full-stack Team Task Management web application built using the **MERN Stack**.  
 This platform helps teams manage projects, assign tasks, track progress, and monitor productivity using role-based authentication.
+(vaishnavi singh)
 
 ---
 
@@ -50,6 +51,7 @@ The application includes secure JWT authentication and role-based access control
 - Update Task Status
 - Delete Tasks
 - Due Date Tracking
+(vaishnavi singh)
 
 ---
 
@@ -208,7 +210,7 @@ Modern glassmorphism styled authentication page with secure JWT login system.
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboard (Vaishnavi Singh)
 Displays:
 - Total Tasks
 - Pending Tasks
@@ -276,7 +278,7 @@ The demo video includes:
 
 # 👨‍💻 Author
 
-## Yogesh
+## Vaishnavi Singh
 
 Built for assignment and learning purposes using the MERN Stack.
 
